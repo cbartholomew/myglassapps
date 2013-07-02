@@ -1,0 +1,54 @@
+c:\users\chrisb\documents\visual studio 2010\Projects\BloggerThroughGlass\obj\Debug\ResolveAssemblyReference.cache
+c:\users\chrisb\documents\visual studio 2010\Projects\BloggerThroughGlass\bin\BloggerThroughGlass.dll
+c:\users\chrisb\documents\visual studio 2010\Projects\BloggerThroughGlass\bin\BloggerThroughGlass.pdb
+c:\users\chrisb\documents\visual studio 2010\Projects\BloggerThroughGlass\bin\DotNetOpenAuth.dll
+c:\users\chrisb\documents\visual studio 2010\Projects\BloggerThroughGlass\bin\Google.Apis.Authentication.OAuth2.dll
+c:\users\chrisb\documents\visual studio 2010\Projects\BloggerThroughGlass\bin\Google.Apis.dll
+c:\users\chrisb\documents\visual studio 2010\Projects\BloggerThroughGlass\bin\Google.Apis.Mirror.v1.dll
+c:\users\chrisb\documents\visual studio 2010\Projects\BloggerThroughGlass\bin\Google.Apis.Oauth2.v2.dll
+c:\users\chrisb\documents\visual studio 2010\Projects\BloggerThroughGlass\bin\log4net.dll
+c:\users\chrisb\documents\visual studio 2010\Projects\BloggerThroughGlass\bin\Newtonsoft.Json.Net35.dll
+c:\users\chrisb\documents\visual studio 2010\Projects\BloggerThroughGlass\bin\Google.Apis.pdb
+c:\users\chrisb\documents\visual studio 2010\Projects\BloggerThroughGlass\bin\Google.Apis.xml
+c:\users\chrisb\documents\visual studio 2010\Projects\BloggerThroughGlass\bin\Google.Apis.Authentication.OAuth2.pdb
+c:\users\chrisb\documents\visual studio 2010\Projects\BloggerThroughGlass\bin\Google.Apis.Authentication.OAuth2.xml
+c:\users\chrisb\documents\visual studio 2010\Projects\BloggerThroughGlass\bin\Newtonsoft.Json.Net35.xml
+c:\users\chrisb\documents\visual studio 2010\Projects\BloggerThroughGlass\obj\Debug\BloggerThroughGlass.dll
+c:\users\chrisb\documents\visual studio 2010\Projects\BloggerThroughGlass\obj\Debug\BloggerThroughGlass.pdb
+\\vmware-host\Shared Folders\My Documents\Visual Studio 2010\Working\BloggerThroughGlass\bin\BloggerThroughGlass.dll
+\\vmware-host\Shared Folders\My Documents\Visual Studio 2010\Working\BloggerThroughGlass\bin\BloggerThroughGlass.pdb
+\\vmware-host\Shared Folders\My Documents\Visual Studio 2010\Working\BloggerThroughGlass\bin\DotNetOpenAuth.dll
+\\vmware-host\Shared Folders\My Documents\Visual Studio 2010\Working\BloggerThroughGlass\bin\Google.Apis.Authentication.OAuth2.dll
+\\vmware-host\Shared Folders\My Documents\Visual Studio 2010\Working\BloggerThroughGlass\bin\Google.Apis.dll
+\\vmware-host\Shared Folders\My Documents\Visual Studio 2010\Working\BloggerThroughGlass\bin\Google.Apis.Mirror.v1.dll
+\\vmware-host\Shared Folders\My Documents\Visual Studio 2010\Working\BloggerThroughGlass\bin\Google.Apis.Oauth2.v2.dll
+\\vmware-host\Shared Folders\My Documents\Visual Studio 2010\Working\BloggerThroughGlass\bin\log4net.dll
+\\vmware-host\Shared Folders\My Documents\Visual Studio 2010\Working\BloggerThroughGlass\bin\Newtonsoft.Json.Net35.dll
+\\vmware-host\Shared Folders\My Documents\Visual Studio 2010\Working\BloggerThroughGlass\bin\Google.Apis.pdb
+\\vmware-host\Shared Folders\My Documents\Visual Studio 2010\Working\BloggerThroughGlass\bin\Google.Apis.xml
+\\vmware-host\Shared Folders\My Documents\Visual Studio 2010\Working\BloggerThroughGlass\bin\Google.Apis.Authentication.OAuth2.pdb
+\\vmware-host\Shared Folders\My Documents\Visual Studio 2010\Working\BloggerThroughGlass\bin\Google.Apis.Authentication.OAuth2.xml
+\\vmware-host\Shared Folders\My Documents\Visual Studio 2010\Working\BloggerThroughGlass\bin\Newtonsoft.Json.Net35.xml
+\\vmware-host\Shared Folders\My Documents\Visual Studio 2010\Working\BloggerThroughGlass\obj\Debug\ResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\My Documents\Visual Studio 2010\Working\BloggerThroughGlass\obj\Debug\BloggerThroughGlass.dll
+\\vmware-host\Shared Folders\My Documents\Visual Studio 2010\Working\BloggerThroughGlass\obj\Debug\BloggerThroughGlass.pdb
+C:\Users\chrisb\Documents\ApplicationDevelopment\Working\BloggerThroughGlass\bin\BloggerThroughGlass.dll
+C:\Users\chrisb\Documents\ApplicationDevelopment\Working\BloggerThroughGlass\bin\BloggerThroughGlass.pdb
+C:\Users\chrisb\Documents\ApplicationDevelopment\Working\BloggerThroughGlass\bin\DotNetOpenAuth.dll
+C:\Users\chrisb\Documents\ApplicationDevelopment\Working\BloggerThroughGlass\bin\Google.Apis.Authentication.OAuth2.dll
+C:\Users\chrisb\Documents\ApplicationDevelopment\Working\BloggerThroughGlass\bin\Google.Apis.Blogger.v3.dll
+C:\Users\chrisb\Documents\ApplicationDevelopment\Working\BloggerThroughGlass\bin\Google.Apis.dll
+C:\Users\chrisb\Documents\ApplicationDevelopment\Working\BloggerThroughGlass\bin\Google.Apis.Mirror.v1.dll
+C:\Users\chrisb\Documents\ApplicationDevelopment\Working\BloggerThroughGlass\bin\Google.Apis.Oauth2.v2.dll
+C:\Users\chrisb\Documents\ApplicationDevelopment\Working\BloggerThroughGlass\bin\log4net.dll
+C:\Users\chrisb\Documents\ApplicationDevelopment\Working\BloggerThroughGlass\bin\Newtonsoft.Json.dll
+C:\Users\chrisb\Documents\ApplicationDevelopment\Working\BloggerThroughGlass\bin\Newtonsoft.Json.Net35.dll
+C:\Users\chrisb\Documents\ApplicationDevelopment\Working\BloggerThroughGlass\bin\Google.Apis.pdb
+C:\Users\chrisb\Documents\ApplicationDevelopment\Working\BloggerThroughGlass\bin\Google.Apis.xml
+C:\Users\chrisb\Documents\ApplicationDevelopment\Working\BloggerThroughGlass\bin\Google.Apis.Authentication.OAuth2.pdb
+C:\Users\chrisb\Documents\ApplicationDevelopment\Working\BloggerThroughGlass\bin\Google.Apis.Authentication.OAuth2.xml
+C:\Users\chrisb\Documents\ApplicationDevelopment\Working\BloggerThroughGlass\bin\Newtonsoft.Json.pdb
+C:\Users\chrisb\Documents\ApplicationDevelopment\Working\BloggerThroughGlass\bin\Newtonsoft.Json.xml
+C:\Users\chrisb\Documents\ApplicationDevelopment\Working\BloggerThroughGlass\bin\Newtonsoft.Json.Net35.xml
+C:\Users\chrisb\Documents\ApplicationDevelopment\Working\BloggerThroughGlass\obj\Debug\BloggerThroughGlass.dll
+C:\Users\chrisb\Documents\ApplicationDevelopment\Working\BloggerThroughGlass\obj\Debug\BloggerThroughGlass.pdb

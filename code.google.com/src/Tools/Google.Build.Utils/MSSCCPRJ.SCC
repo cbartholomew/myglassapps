@@ -1,0 +1,6 @@
+SCC = This is a Source Code Control file.
+
+[Google.Build.Utils.csproj]
+SCC_Aux_Path = 
+SCC_Project_Name = $/BloggerThroughGlass/code.google.com/src/Tools/Google.Build.Utils
+

@@ -1,0 +1,137 @@
+{
+  "discoveryLink": "./apis/blogger/v3/rest", 
+  "kind": "discovery#directoryItem", 
+  "labels": [
+    "limited_availability"
+  ], 
+  "description": "API for access to the data within Blogger.", 
+  "title": "Blogger API", 
+  "discoveryRestUrl": "https://www.googleapis.com/discovery/v1/apis/blogger/v3/rest", 
+  "preferred": true, 
+  "version": "v3", 
+  "icons": {
+    "x32": "http://www.google.com/images/icons/product/blogger-32.png", 
+    "x16": "http://www.google.com/images/icons/product/blogger-16.png"
+  }, 
+  "documentationLink": "https://developers.google.com/blogger/docs/3.0/getting_started", 
+  "id": "blogger:v3", 
+  "name": "blogger", 
+  "files": [
+    {
+      "downloadUrl": "/downloads/blogger/v3/13/csharp/1.3.0-beta/google-blogger-v3-rev13-csharp-1.3.0-beta-bin.zip", 
+      "path": "google-blogger-v3-rev13-csharp-1.3.0-beta-bin.zip", 
+      "type": "binary", 
+      "timestamp": "2013-05-07 00:30"
+    }, 
+    {
+      "downloadUrl": "/downloads/blogger/v3/13/csharp/1.3.0-beta/google-blogger-v3-rev13-csharp-1.3.0-beta-doc.zip", 
+      "path": "google-blogger-v3-rev13-csharp-1.3.0-beta-doc.zip", 
+      "type": "documentation", 
+      "timestamp": "2013-05-07 00:30"
+    }, 
+    {
+      "downloadUrl": "/downloads/blogger/v3/13/csharp/1.3.0-beta/google-blogger-v3-rev13-csharp-1.3.0-beta-src.zip", 
+      "path": "google-blogger-v3-rev13-csharp-1.3.0-beta-src.zip", 
+      "type": "source", 
+      "timestamp": "2013-05-07 00:30"
+    }
+  ], 
+  "revision": 13, 
+  "language": "csharp", 
+  "language_version": "1.3.0-beta", 
+  "dependencies": [
+    {
+      "version": "1.3.0-beta", 
+      "downloadLink": "https://code.google.com/p/google-api-dotnet-client/source/browse/1.3.0-beta/Generated/ZipFiles/google-api-dotnet-client-1.3.0-beta.binary.zip?repo=contrib", 
+      "name": "Google DotNet C# Client", 
+      "environments": [
+        "*"
+      ]
+    }, 
+    {
+      "files": [
+        {
+          "path": "Lib/DotNetOpenAuth.dll", 
+          "type": "binary"
+        }, 
+        {
+          "path": "dependencies/DotNetOpenAuth.LICENSE", 
+          "type": "license"
+        }
+      ], 
+      "version": "4.0.0.11165", 
+      "name": "DotNetOpenAuth", 
+      "environments": [
+        "*"
+      ]
+    }, 
+    {
+      "files": [
+        {
+          "path": "Lib/log4net.dll", 
+          "type": "binary"
+        }, 
+        {
+          "path": "dependencies/log4net.LICENSE", 
+          "type": "license"
+        }
+      ], 
+      "version": "1.2.10.0", 
+      "name": "Log4net", 
+      "environments": [
+        "*"
+      ]
+    }, 
+    {
+      "files": [
+        {
+          "path": "Lib/Newtonsoft.Json.Net35.dll", 
+          "type": "binary"
+        }, 
+        {
+          "path": "dependencies/Newtonsoft.Json.LICENSE", 
+          "type": "license"
+        }
+      ], 
+      "version": "4.0.2.0", 
+      "name": "Newtonsoft Json Library", 
+      "environments": [
+        "*"
+      ]
+    }, 
+    {
+      "files": [
+        {
+          "path": "Lib/Google.Apis.Authentication.OAuth2.dll", 
+          "type": "binary"
+        }, 
+        {
+          "path": "LICENSE.txt", 
+          "type": "license"
+        }
+      ], 
+      "version": "1.3.0-beta", 
+      "name": "Google APIs Client Authentication Library", 
+      "environments": [
+        "*"
+      ]
+    }, 
+    {
+      "files": [
+        {
+          "path": "Lib/Google.Apis.dll", 
+          "type": "binary"
+        }, 
+        {
+          "path": "LICENSE.txt", 
+          "type": "license"
+        }
+      ], 
+      "version": "1.3.0-beta", 
+      "name": "Google APIs Client Library", 
+      "environments": [
+        "*"
+      ]
+    }
+  ]
+}
