@@ -24,7 +24,7 @@ namespace myGlassApps.models
         static String TEST_URI = "http://localhost:8080/main.ashx";
 
         static String CLIENT_ID = "73341334822-n8emkr56dbl3k1g471dcf0h6cdql6cdt.apps.googleusercontent.com";
-        static String CLIENT_SECRET = "4UGQY4ltae7J9nLhuGKBvNLq";
+        static String CLIENT_SECRET = "";
         static String REDIRECT_URI = PROD_URI;
         static String[] SCOPES = new String[] {
         "https://www.googleapis.com/auth/glass.timeline",
