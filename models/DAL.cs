@@ -14,15 +14,10 @@ namespace myGlassApps.models
     public class DAL
     {
 
-        //public const String DATA_SOURCE = "MIRRORAPIPROD.db.4173543.hostedresource.com";
-        //public const String CATALOG = "MIRRORAPIPROD";
-        //public const String USER_ID = "MIRRORAPIPROD";
-        //public const String PWD = "La1nd0nna@ma";
-
-        public const String DATA_SOURCE = "MIRRORAPI.db.4173543.hostedresource.com";
-        public const String CATALOG = "MIRRORAPI";
-        public const String USER_ID = "MIRRORAPI";
-        public const String PWD = "La1nd0nna@ma";
+        public const String DATA_SOURCE = "";
+        public const String CATALOG = "";
+        public const String USER_ID = "";
+        public const String PWD = "";
 
         public static void InsertToken(String userId,IAuthorizationState authState, String authCode)
         {
